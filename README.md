@@ -26,7 +26,7 @@ H3Artsweeper中的贴图是使用[LZ 8bit像素画在线制作器](http://www.li
 ## 获取H3Artsweeper
 
 ### 直接获取
-点击该链接或Github仓库页面右侧的Release获取，注意：
+点击[该链接](https://github.com/H3Art-q/H3Artsweeper/releases/tag/1.0)或Github仓库页面右侧的Release获取，注意：
 - 可执行文件.exe与贴图文件需放置在同一文件路径下，否则游戏开始后为黑屏
 - 启动时可能弹出黑框，为正常现象
 
